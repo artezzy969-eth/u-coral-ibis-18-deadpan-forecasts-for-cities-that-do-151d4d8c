@@ -1,4 +1,4 @@
-"""Deadpan forecast for Brindlewick.
+"""Deadpan forecast for Tarnwick.
 
 Writes a single forecast line to the output file. Standard library only,
 no network access, deterministic: the same line every run.
@@ -8,7 +8,7 @@ import os
 from pathlib import Path
 
 FORECAST = (
-    "In Brindlewick, Thursday's 41-knot headwind will return the 8:15 ferry "
+    "In Tarnwick, Thursday's 41-knot headwind will return the 8:15 ferry "
     "to its berth, so the council has ruled the crossing complete, "
     "refunds in vouchers."
 )
